@@ -1,7 +1,7 @@
 # iamDvz-Portfolio
 My Portfolio
 
-https://github.com/iamDvz/iamDvz-Portfolio/blob/main/MagicSpells/elemental_air_1.gif?raw=true
+![HEADER](https://github.com/iamDvz/iamDvz-Portfolio/blob/main/MagicSpells/elemental_air_1.gif?raw=true)
 https://github.com/iamDvz/iamDvz-Portfolio/blob/main/MagicSpells/elemental_air_2.gif?raw=true
 https://github.com/iamDvz/iamDvz-Portfolio/blob/main/MagicSpells/elemental_air_3.gif?raw=true
 
